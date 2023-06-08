@@ -1,6 +1,7 @@
 import random
 import string
 import os 
+import time
 
 print("Password: ")
 while True:
